@@ -177,3 +177,4 @@ C:\Universidad\SextoSemestre\ProgramacionWebII\practicos\activida4\Actividad4\bi
 C:\Universidad\SextoSemestre\ProgramacionWebII\practicos\activida4\Actividad4\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Universidad\SextoSemestre\ProgramacionWebII\practicos\activida4\Actividad4\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Universidad\SextoSemestre\ProgramacionWebII\practicos\activida4\Actividad4\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Universidad\SextoSemestre\ProgramacionWebII\practicos\activida4\Actividad4\obj\Debug\net10.0\Actividad4.sourcelink.json
